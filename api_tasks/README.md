@@ -1,7 +1,5 @@
-# Awesome Project Build with TypeORM
+# Back End API com NodeJS Typescript e TypeORM
 
-Steps to run this project:
+yarn add body-parser cors express pg reflect-metadata typeorm
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+yarn add @types/cors @types/express @types/node nodemon ts-node typescript -D
