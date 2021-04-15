@@ -1,10 +1,5 @@
-# Getting Started with Create React App
+# Front End com ReactJS Typescritp e Bootstrap
 
-yarn add axios.
-yarn add bootstrap.
-yarn add moment.
-yarn add react-bootstrap.
-yarn add react-router-dom.
-yarn add typescript.
+yarn add axios bootstrap moment react-bootstrap react-router-dom typescript.
 
 yarn add @types/react-router-dom -D.
